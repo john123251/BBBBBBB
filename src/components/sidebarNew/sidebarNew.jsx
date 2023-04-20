@@ -71,7 +71,7 @@ export function SidebarNew() {
 
         <ul className={styles.sidebarNavList}>
           <NavLinks linksList={linksList} />
-          <li className={styles.sidebarNavLink}> <img src={DaiLogo} alt="#" /><Link className={styles.sidebarNavLink} to={{ pathname: "https://stakeaishiba.arbshibaai.com/" }} target="_blank">AISHIB</Link></li>
+          <li className={styles.sidebarNavLink}> <img src={DaiLogo} alt="#" /><Link className={styles.sidebarNavLink} to={{ pathname: "https://stakeaishib.arbshibaai.com/" }} target="_blank">AISHIB</Link></li>
           <li className={styles.sidebarNavLink}> <img src={EthLogo} alt="#" /><Link className={styles.sidebarNavLink} to={{ pathname: "https://stakeweth.arbshibaai.com/" }} target="_blank">wETH</Link></li>
         </ul>
       </div>
