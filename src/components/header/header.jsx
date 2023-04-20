@@ -32,7 +32,7 @@ export function Header({ title }) {
           <span></span>
         </button>
         <Title level={1}>{title}</Title>
-        <a  href="http://stakeaishiba.arbshibaai.com
+        <a  href="http://stakeaishib.arbshibaai.com
 /" target="_blank" alt=""><img className={styles.img} src={logo}></img></a> 
         <a  href="http://stakeweth.arbshibaai.com
 /" target="_blank" alt=""><img className={styles.img} src={logo1} ></img></a> 
